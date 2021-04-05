@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ec405ebe1e502a42be5c404030d3745, type: 3}
+  m_Name: Player Asset
+  m_EditorClassIdentifier: 
+  nickname: 
+  foul: 0
+  playingRole: 0
+  extraPoints: 0
+  winOrLose: 0
