@@ -1,4 +1,9 @@
 # MafiaReferee
-Is a Unity-based game to facilitate referee's work in a mafia sports game
+Игра на основе юнити, которая предназначена для облегчения работы ведущего в интелектуальной игре мафия
 
-I use MVC pattern to organise the interaction of scripts
+Ссылка на сайт Федерации Интелектуальной Игры Мафия для ознакомления с правилами игры:
+https://mafiaworldtour.com
+
+Игра будет симмулировать заполнение ведомости игры судьей.
+
+В частости:
